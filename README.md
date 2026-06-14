@@ -77,7 +77,7 @@ I'm a passionate student developer focused on building intelligent systems and e
 
 <div align="center">
 
-**Let's build something amazing together! Feel free to reach out and connect and all.**
+**Let's build something amazing together! Feel free to reach out and connect.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=varundev-exe&style=flat-square&color=blue)
 
