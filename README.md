@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a passionate student developer focused on building intelligent systems and exploring the world of machine learning. Currently honing my skills in Python and data science, with a strong foundation [...]
+I'm a passionate student developer focused on building intelligent systems and exploring the world of machine learning. Currently honing my skills in Python and data science, with a strong foundation in problem-solving and continuous learning.
 
 ---
 
@@ -58,8 +58,6 @@ I'm a passionate student developer focused on building intelligent systems and e
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varundev-exe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=varundev-exe&theme=tokyonight&hide_border=true)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varundev-exe&theme=tokyo-night&hide_border=true)](https://github.com/varundev-exe)
 
 </div>
 
