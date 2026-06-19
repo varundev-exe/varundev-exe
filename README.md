@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a passionate student developer focused on building intelligent systems and exploring the world of machine learning. Currently honing my skills in Python and data science, with a strong foundation in problem-solving and continuous learning.
+I'm a passionate student developer focused on building intelligent systems and exploring the world of machine learning. Currently honing my skills in Python and data science, with a strong foundat[...]
 
 ---
 
@@ -78,7 +78,5 @@ I'm a passionate student developer focused on building intelligent systems and e
 <div align="center">
 
 **Let's build something amazing together! Feel free to reach out and connect.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=varundev-exe&style=flat-square&color=blue)
 
 </div>
