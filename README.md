@@ -1,6 +1,6 @@
 <div align="center">
 
-# Varun Kumar Mishraw
+# Varun Kumar Mishra
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrMwlJ1N/giphy.gif" width="25px" alt="wave" />
 
