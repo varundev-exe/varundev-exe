@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrMwlJ1N/giphy.gif" width="25px" alt="wave" />
 
-**Aspiring ML Engineer | Python Enthusiast  | Lifelong Learner**
+**Aspiring ML Engineer | Python Enthusiast | Lifelong Learner**
 
 </div>
 
